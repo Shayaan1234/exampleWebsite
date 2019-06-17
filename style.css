@@ -1,0 +1,28 @@
+body {
+    background-color:blueviolet;
+
+}
+div{
+    display:block;
+}
+h3{
+    color: aquamarine;
+    font-size: 30px
+}
+h2{
+    color: skyblue;
+    font-size: 30px
+}
+style{
+    width: 320px;
+    padding: 10px;
+    border: 5px solid rgb(209, 59, 59);
+    margin: 123;
+}
+/* body{
+    background-color: rgb(104, 62, 143);
+} */
+/* body{
+    background-color: rgb(181, 125, 233);
+} */
+
